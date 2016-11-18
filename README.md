@@ -8,9 +8,9 @@ Refer to the papirus set-up:https://www.rs-online.com/designspark/papirus-an-epa
 (3) Raspberry Pi 2 with e-paper<br></p>
 
 <p><b>(1)Program run on Arduino UNO:</b><br>
-<i>NRF/4pins_CapacitiveSensor_Send_Arduino_keep_/4pins_CapacitiveSensor_Send_Arduino_keep_.ino</i><br>
+<i>NRF24L01+/_4pins_E-paper/_4pins_E-paper.ino</i><br>
 <b>(2)Program run on Raspberry Pi 1:</b><br>
-<i>NRF/NRF_receive.py</i><br>
+<i>NRF24L01+/NRF_receive.py</i><br>
 <b>(3)Program run on Raspberry Pi 2 with E-paper:</b><br>
 <i>papirus.py</i>
 </p>

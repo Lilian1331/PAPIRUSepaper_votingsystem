@@ -1,4 +1,4 @@
-# PAPIRUSepaper_votingsystem
+# PAPIRUS Epaper_votingsystem
 Blog for e-paper voting system:https://www.rs-online.com/designspark/e-paper-voting-system<br>
 Refer to the papirus set-up:https://www.rs-online.com/designspark/papirus-an-epaper-display-for-the-raspberry-pi
 

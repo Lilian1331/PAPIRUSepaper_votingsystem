@@ -16,4 +16,4 @@ Refer to the papirus set-up:https://www.rs-online.com/designspark/papirus-an-epa
 </p>
 <p><h4>
 Flow of the voting system:</h4>
-Arduino detect the capacitance change->Send to Raspberry Pi 1 via NRF24L01+ module->Raspberry Pi 1 send data to Raspberry Pi 2 via internet->Raspberry Pi 2 receive and display the result.</p>
+Arduino detect the capacitance change<b>-></b>Send to Raspberry Pi 1 via NRF24L01+ module<b>-></b>Raspberry Pi 1 send data to Raspberry Pi 2 via internet<b>-></b>Raspberry Pi 2 receive and display the result.</p>
